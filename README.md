@@ -10,7 +10,7 @@
 
 # Revision History
 
-- 20220919 : add ISP_UART_M031SD2AE and ISP_UART_M031TD2AE project, delete ISP_UART project
+- 20220919 : add ISP_UART_M031"S"D2AE and ISP_UART_M031"T"D2AE project, delete ISP_UART project
 - 20220830 : add LED_Test project
 - 20220825 : add M031_Series_BSP_CMSIS_V3.05.000(Template) project
 - 20220825 : add ISP_UART project
